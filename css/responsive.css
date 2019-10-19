@@ -1,0 +1,568 @@
+
+
+
+
+@media (min-width: 1200px) {
+.container {
+    max-width: 1266px;
+}
+}
+
+@media (max-width: 1199px) {
+  h2 {font-size: 32px;}
+.login_addlisting_section ul {margin: 0;}
+.page-id-7 .main-navigation a { padding: 10px 5px;}
+.main-navigation a {font-size: 14px; padding: 7px 5px;}
+.site-branding img {max-width: 200px;}
+.page-id-7 .login_addlisting_section {font-size: 14px;}
+.addlisting_section a.btn {font-size: 12px;padding: 3px 7px; }
+.page-id-7 .site-header-menu {margin: 0;}
+
+#post-7.d-table-cell.align-middle { padding: 30px 20px; width: 90%;}
+#post-7 button.btn.btn-danger.wrn-btn {padding: 13px 30px;}
+
+.price_filter_section p {margin-top: 10px;}
+.footer_bottom_menu ul li a  {font-size: 14px; padding-right: 5px; padding-left: 5px;}
+.copy_right_content {font-size: 14px;}
+.addlisting_section ul li {padding: 0 4px;}
+ 
+.footer_top_section .footer_sec{width: 23.2%!important;}
+.side-bar span {   
+ font-size: 22px;
+    padding-top: 3px;
+    display: block;}
+.franchise_filter form .form-control {min-height:unset;}
+
+.site-header-menu {margin-top: 18px;}
+.active-buyers-wrapper .buyer-listing .looking-for {width: 100%;}
+.active-buyers-wrapper .buyer-listing .looking-for ul li {margin-right: 15px;}
+
+.sell-business .select-plan-tab .showcase .title h4 {font-size: 18px;}
+
+.sell-business .nav-fill .nav-item {font-size: 14px; padding: 12px 5px;}
+.business-info-form ul.label_list li {margin-right: 12px;}
+.sell-business .question_box h2 {font-size: 24px;}
+.sell-business .question_box h4 {font-size: 18px;}
+.sell-business .select-plan-tab .showcase p {margin-bottom: 15px; font-size: 15px;}
+.sell-business .showcase_row, .payment_form .cardit_card_details {max-width: 100%;}
+
+
+.busniess_broker .register_btn .btn {padding:12px 7px; font-size: 13px;}
+.franchise_listing_single_section .col-lg-3 img {max-width: 100%;}
+.single_buy_details_section h2 {margin-bottom: 5px;}
+
+.contact-details {padding:40px 0;}
+.contact_form_map {padding-top:0;}
+.history_section .history-content {height: auto;}
+
+.page-id-7 .site-branding { margin: 5px 0 0 0; }
+.addlisting_section { margin:15px 0 0 0px; }
+.d-table-cell.align-middle .heading-title { margin-bottom: 15px; }
+
+.business_tabs_section .nav-fill .nav-item { font-size: 16px; padding: 5px; }
+
+.bussiness_feature_section ul li { font-size: 14px; }
+.contact_seller_form_section form { padding: 0px; }
+
+
+.packages-container .package-posts { margin-right: 2%; width: 30%;  }
+
+
+}
+
+/*max-width 1191 the end*/
+
+
+
+@media (max-width: 991px) {
+      h1 {font-size: 36px;}
+h2 {font-size: 32px;}
+.top_bar, .page-id-7 .top_bar {display: none;}
+.site-header-menu {margin-top: 0px;}
+.login_addlisting_section {display: none;}
+.site-header-menu.toggled-on {top: 0px;  transition: 0.5s all;}
+.single_buy_details_section h2 {font-size: 22px; margin-top: 30px;}
+.business_tabs_section .nav-fill .nav-item {padding: 5px 3px; font-size: 14px; text-transform: capitalize; }
+.addlisting_section {text-align: right; width: 100%; float: right;}
+.menu-toggle {position: relative; z-index: 1111;}
+.menu-toggle.toggled-on:after { content: "\f00d";font-family: 'Font Awesome 5 Pro'; display: block;font-size: 20px;color: #404040;transition: 0.5s all;}
+.side_content .mobile-menu ul li {display: block;border-image-repeat: }
+
+.tab-content > .tab-pane{ font-size: 14px; }
+.contact_seller_form_section { margin-top: 30px; }
+
+.sidenav .mobile_menu ul.top-social ul li {display: inline-block;}
+.menu_section_business #menu-toggle {display: none;}
+.sidenav .mobile_menu {display: block;}
+.sidenav .side_top {display: none;}
+#post-7.d-table-cell.align-middle {padding: 20px; font-size: 20px;}
+
+.side_content ul li:hover a {color: #404040!important;}
+.main-navigation .primary-menu {border: none;}
+.main-navigation a {font-size: 16px; text-align: left; border: none;}
+#post-7 .form-control, footer .footer_social {margin-bottom: 20px;}
+.contact_seller_form_section h2 {display: block; float: none; margin-left: 0; font-size: 24px;}
+.contact_seller_form_section .already_member {display: block; float: none; width: 100%; font-size: 16px;}
+.contact_seller_form_section .already_member h4 {text-align: center;}
+.contact_seller_form_section form {padding: 0px;}
+.footer_bottom_section {text-align: center; }
+.price_filter_section form input {margin-bottom: 20px;}
+.broker_register_wrapper form p {width: 47.5%;}
+.filter_broker_banner {height: auto;}
+.filter_broker_section .brokers_list .broker_img {float: unset; margin: 0 auto;}
+.filter_broker_section .brokers_list .broker_detail {float: unset; text-align: center;}
+.filter_broker_banner .find_broker .from-group.check {margin-bottom: 10px;}
+.filter_broker_banner .find_broker .from-group.check .checkbox {font-size: 17px;}
+.about_us_banner {height: 270px;}
+.about_details .about_img {width: 143%;}
+.about_details .col-md-4.col-lg-3 {margin-left: -83px;}
+.history_section .history-bg {height: 830px;}
+.history_section .history-content {height:750px;}
+.about_details_content h2 {text-align: center;}
+.about_details_content h2:after {margin: 0 auto; margin-top: 25px;}
+
+.sell-business .select-plan-tab .showcase .title h2 {font-size: 28px; margin-bottom: 10px;}
+.sell-business .select-plan-tab .showcase .title h4 {font-size: 20px;}
+.sell-business .nav-tabs .nav-item { padding: .5rem 0;width: 25%; align-items: center; display: flex; justify-content: center; line-height: 1.3;}
+
+.sell-business .select-plan-tab .showcase p {font-size: 14px; line-height: 14px;}
+.sell-business .select-plan-tab .payment_form .from-group .form-control,
+.sell-business .select-plan-tab .showcase .plan_select .from-control  {font-size: 14px; padding: 10px 20px;}
+.sell-business .basic-info h2, .sell-business .select-basic-plan .description h2 {font-size: 28px;}
+.sell-business .creat-account .basic-info-form h2 {font-size: 16px;}
+
+.sell-business form .btn {font-size: 15px;}
+.sell-business .business-info-form form .from-group.web-link span {font-size: 14px;}
+.sell-business-wrapper .creat-account .description h2 {font-size: 28px;}
+.sell-business .business-info-form h4 {font-size: 15px;}
+.sell-business .business-info-form .input-checkbox {font-size: 14px;}
+.sell-business-wrapper .question_box {padding: 20px 10px;}
+.sell-business-wrapper .question_box h4 {font-size: 18px; line-height: 25px;}
+.sell-business-wrapper .question_box h3 {font-size: 16px;}
+.sell-business-wrapper .question_box h2 {font-size: 18px;}
+.site-map .section-heading  {width: 100%;}
+.contact_form_map .contact_form form .form-group {width: 100%; float: unset; margin-right: 0;}
+.contact-details .con_add {margin-bottom: 20px;}
+
+.busniess_broker .filter_broker h4 {font-size: 17px;}
+.busniess_broker .filter_broker form .from-control,
+.busniess_broker .filter_broker form .btn,
+.busniess_broker .register_btn .btn 
+ {padding: 11px 10px; font-size: 14px;}
+.busniess_broker .register_btn .btn  {padding: 6px 10px;}
+.broker_details_sec .broker_details .top_row .broker_name {font-size: 22px;}
+.sell-business .creat-account .basic-info-form, 
+.business-info-form {max-width: 100%}
+ button, input, select, textarea, p {font-size: 14px!important;}
+
+.sell-business .select-plan-tab .payment_form .select_card .card-name {font-size: 15px;}
+.input-checkbox {padding-left: 24px; font-size: 14px;}
+.sell-business .select-plan-tab .payment_form .cardit_card_details .from-control {padding:11px 5px; font-size: 14px; }
+.footer_top_section .footer_sec {margin-right: 0;}
+
+.footer_top_section .footer_sec{width: 40%!important;}
+.footer_sec.a, .footer_sec.c {margin-right: 100px;}
+.widget.widget_nav_menu h2 {font-size: 18px!important;}
+
+.footer_top_section ul li a {font-size: 14px;}
+.footer_social ul li a {  width: 30px; height: 30px; line-height: 30px;  margin-right: 8px; }
+
+.details_sec .buyer-details {display: block!important; width: 81%; margin-top:0;}
+.details_sec .buyer-details li .content h5 {font-size: 14px;}
+.details_sec .buyer-details li .content span {font-size: 14px;}
+
+.footer_sec .widget.widget_nav_menu { margin-bottom: 20px; }
+
+.footer_bottom_menu ul li a,
+.copy_right_content { font-size: 12px; }
+
+.active-buyers-wrapper .section-heading h1 {font-size: 24px;}
+.active-buyers .active-buyer-filter h4 {font-size: 20px;}
+.active-buyers-wrapper .buyer-listing .looking-for {width: 100%;}
+.active-buyers-wrapper .buyer-listing .title {width: 70%;}
+.active-buyers-wrapper .buyer-listing .buyer-pic {margin-bottom: 20px;}
+.active-buyers-wrapper .buyer-listing .looking-for .title a {font-size: 18px;}
+.active-buyers .active-buyer-filter ul li a {font-size: 14px;}
+.view_active_buyer_section .buyer-listing .buyer-pic {max-width: 180px;}
+.view_active_buyer_section .buyer-listing .looking-for {max-width: 70%;}
+.home-page-banner .d-table-cell.align-middle .col-lg-5 .location_icon {height: 38px;}
+.home-page-banner .d-table-cell.align-middle .col-lg-5 .location_icon:before {padding: 0 3px;}
+.sell-business .showcase {height: 520px;}
+.sell-business form .select_box .select_border {right: 50px;}
+.sell-business .select-plan-tab .showcase .plan_select .select_border {height: 48px;}
+.payment_form {max-width: 100%;}
+
+
+
+.franchise_filter h4 {font-size: 20px;}
+.franchise_filter {padding: 20px 10px;}
+.franchise_filter form .select_border {height: 35px;}
+.busniess_broker .select_box .select_border {right: 40px; height: 30px;}
+.busniess_broker .register_btn .btn {font-size: 13px;}
+.details_sec .buyer-details li .content {padding-left: 5px;}
+.details_sec .buyer-details li .icon {padding-right: 0;}
+.details_sec .buyer-details li {margin-left: 0;}
+
+
+
+.contact_seller_form_section form .row {margin-bottom: 0;}
+.franchise_listing_single_section .buyer_social {float: left; margin:10px 0;}
+.info {font-size: 12px;}
+.modal.forgot_password .modal-dialog {margin-top:90px;}
+.modal.login_admin .modal-dialog {margin-top:90px;}
+
+.col-lg-3 .list-group { margin-bottom: 25px; }
+ 
+.contact-details .con_add { height: 190px; padding: 20px;  } 
+
+.contact_form_map .contact_form h2 { font-size: 18px; }
+
+.contact_form_map {padding: 40px 0; }
+
+.info, form label.error { height: 18px; font-size: 10px; overflow: hidden; }
+
+.addlisting_section { margin-top: 12px; }
+
+ .sale_listing h4 a{ padding:10px !important; font-size: 16px;  }
+
+.sale_listing .price { margin-top: 15px; }
+
+.sale_listing .location { margin: 10px 0 15px 0; }
+
+.price_filter_section .col-lg-4 { max-width: 50%; }
+
+.filter_section .location_filter ul li .input-checkbox { font-size: 12px; }
+.price_filter_section .submit-btn .form-control { width: 100%; }
+.filter_section .col-lg-4.submit-btn { max-width: 100%; width: 100%; margin-top:15px; }
+
+.reset-btn { top:40px; }
+
+.filter_section .listing_tag_list_ckbl { font-size: 12px; line-height: 1.4; }
+.contact_seller_message, .message_text_info, .message_title{padding:0;}
+.contact_seller_message h4, .message_text_info h4, .active_buyer_message h4, 
+.message_title h4 {font-size:18px;}
+}
+
+
+/*max-width 991 the end*/
+
+@media (max-width: 767px) {
+    body {font-size: 14px;}
+    p, label {font-size: 14px;}
+    h1 {font-size: 24px;}
+h2 {font-size: 24px;}
+ button, input, select, textarea {font-size: 12px!important;}
+.fliter_listing_section .filter_section {margin-bottom: 40px; }
+.site-branding {display: table; margin: 14px auto;}
+.login_addlisting_section {margin: 13px 0;}
+.home-page-banner {height: 520px;}
+.featured_broker_section {padding-top: 0;}
+#post-7.d-table-cell.align-middle {top: 60%; width: 75%;}
+.sale_listing h4 a {  }
+.sale_listing .price {font-size: 18px; margin-top:10px;}
+.sale_listing .location {margin-bottom: 20px;}
+.sale_listing .price {font-size: 18px;}
+.d-table-cell.align-middle .heading-title {font-size: 20px; margin-bottom: 20px;}
+#post-7 .form-control {margin-bottom: 20px; font-size: 16px;}
+.business_sale_heading h2, .franchise_heading_title h2 {font-size: 24px;}
+.sale_listing h4:before {left: 43%;}
+.price_filter_section form input {margin-bottom: 20px;}
+
+.site-branding.inner_page_logo {margin-top: 15px; max-width: 180px; }
+.page-id-7 .site-branding.inner_page_logo {margin-top:7px;}
+.bradcrumbs_section {font-size: 14px;}
+.bussiness_feature_section ul li {display: block; width: 100%;}
+.bussiness_feature_section ul li {display: block; width: 100%;}
+.business_tabs_section .nav-fill .nav-item { color: #ffa733; width: 100%; text-align:center; display: inline-block;margin-bottom: 10px;}
+.business_tabs_section .nav-fill .nav-item.active {color: #ffffff;}
+.business_tabs_section .nav-fill .nav-item:last-child {margin-bottom: 0;}
+
+.contact_seller_form_section form .form-control {font-size: 14px; padding: 10px 25px;}
+.contact_seller_form_section form select.form-control {min-height: 46px;}
+.contact_seller_form_section form select {    background-size: 6% 25%!important;}
+.similar_listing_section .similar_listing_heading h2, .buy_business_wrapper h2 {font-size: 24px;}
+.business_tabs_section p {font-size: 14px;}
+.carousel-control-next, .carousel-control-prev {height: 40px; width: 40px;}
+
+.contact_seller_message h4, .message_text_info h4, .active_buyer_message h4, 
+.message_title h4 {font-size:16px;}
+
+.footer_social ul li a {height: 30px; width: 30px; font-size: 18px;}
+
+.widget.widget_nav_menu h2 {font-size: 18px;}
+.widget .widget-title {margin: 0!important;}
+.footer_social {margin-bottom: 20px;}
+footer .quick_links_menu, footer .selling_menu {margin-left: 0;}
+.business_for_sale_section, .franchise_opportunity_section, 
+.recently_added_section {padding: 30px 0;}
+.featured_broker_section {margin-top: 30px;}
+.footer_top_section ul li {margin-bottom: 5px;}
+
+.filter_section .listing_tag_list {font-size: 16px;}
+.footer_bottom_section .copy_right_content {margin-bottom: 10px; text-align: center;}
+.footer_bottom_menu {float: unset; text-align: center;}
+.footer_top_section {padding-bottom: 0; padding-top:20px;}
+.broker_register_wrapper form p {width: 100%; float: unset;}
+.broker_login-section form .input-check {display: unset;}
+.contact_seller_form_wrapper {padding: 30px;}
+
+.broker_login-section form .input-check label,
+.broker_login-section form .input-check h5 {width: 100%; text-align: left; margin-bottom: 25px;}
+.forgot_password_section .forgot_password-wapper {padding: 25px; line-height: 40px;}
+.forgot_password_section .forgot_password-wapper h2 {font-size: 24px;}
+.forgot_password_section .forgot_password-wapper form input.btn {font-size: 18px;}
+
+.history_section .history-bg, .history_section .history-content {height: 500px;}
+.history_section .history-content {margin: 0; width: 100%; height: auto;}
+.about_details_content .view_btn {text-align: center;}
+.contact_form_map .contact_form form .form-group {margin: 0; width: 100%; float: unset;}
+.about_details .about_img {display: none;}
+.about_details .col-md-4.col-lg-3 {margin: 0;}
+.contact_form_map .contact_map {margin-top: 30px;}
+
+.sell-business .nav-tabs .nav-item {width: 100%; display: block; border-radius: 0;}
+.sell-business .nav-tabs .nav-item:hover {display: block; border-radius: 0;}
+.sell-business .nav-tabs .nav-item.nav-link.active, .sell-business .nav-tabs .nav-item.nav-link:hover {border-radius: 0;}
+.sell-business .sell-business-wrapper form {padding: 0 15px;}
+.sell-business-wrapper .question_box {  margin-top: 40px;}
+
+.sell-business .select-plan-tab .showcase {height: 500px; margin: 0 auto; width: 350px; margin-bottom: 30px;}
+.sell-business .select-plan-tab .product_description p {font-size: 14px; line-height: 25px;}
+.sell-business .sell-business-wrapper form .from-control {font-size: 14px; padding: 7px 15px;}
+
+.sell-business .select-plan-tab .product_description .titile h3, .sell-business .select-plan-tab .product_description .monthly-plan h3,
+.sell-business .select-plan-tab .product_description .titile .price, .sell-business .select-plan-tab .product_description .monthly-plan .price {font-size: 16px;}
+.addlisting_section {margin-top: 5px;}
+.addlisting_section a.btn {margin-left: 10px; padding: 3px 9px; font-size: 14px;}
+
+.site-map .section-heading h1 {font-size: 34px;}
+.active-buyers-wrapper {margin-top: 30px;}
+.active-buyers-wrapper .buyer-listing .buyer-pic {float: unset; width: 25%;}
+.active-buyers-wrapper .buyer-listing .looking-for {float: unset; width: 100%; margin: 0 auto;}
+.active-buyers .active-buyer-filter ul li a {font-size: 14px;}
+.active-buyers .active-buyer-filter h4 {font-size: 20px;}
+.active-buyers .active-buyer-filter form .from-control {padding: 10px 20px; font-size: 14px;}
+.active-buyers-wrapper .section-heading h1 {font-size: 24px; margin-bottom: 10px;}
+.active-buyers-wrapper .section-heading p {font-size: 14px; }
+
+.active-buyers-wrapper .buyer-listing .looking-for .title:after {height: 2px;}
+h1::after {height: 2px;}
+h2::after {height: 2px;}
+.from-control {font-size: 14px;}
+.active-buyers-wrapper .buyer-details .description h5,
+.active-buyers-wrapper .buyer-details .icon {font-size: 14px;}
+.active-buyers-wrapper .buyer-listing .looking-for .title {font-size: 16px;}
+.active-buyers-wrapper .buyer-details .description span {font-size: 12px;}
+.busniess_broker .section-heading h1 {font-size: 24px; margin-top: 30px;}
+.page-template-profile-page .profile h3 { font-size: 24px;}
+
+.page-template-profile-page .list-group  {margin-bottom: 30px;}
+.page-template-profile-page table{table-style:nostyle; }
+.page-template-profile-page  table, .page-template-profile-page  tbody, .page-template-profile-page  tfoot, 
+.page-template-profile-page  thead,  .page-template-profile-page  tr,  .page-template-profile-page  th, .page-template-profile-page  td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+       display: block;
+       width:100%;
+    background: transparent;
+    width: 100%!important;
+    padding: 0;
+    margin: 0;}
+.home-page-banner .d-table-cell.align-middle .col-lg-5 .location_icon:before {padding:1px 3px;}
+.home-page-banner .d-table-cell.align-middle .col-lg-5 .location_icon {height:27px;}
+.form-table>tbody>.acf-field>.acf-label{padding: 0!important;}
+
+.form-table>tbody>.acf-field>.acf-input {padding:0!important;}
+.page-template-profile-page .form-table .description {margin-bottom: 15px;}
+.page-template-profile-page .form-submit {padding-left: 0;}
+
+.page-template-profile-page .profile h3 {margin: 20px 0; text-align: left;}
+.broker_details_sec .broker_details,
+.broker_details_sec .bus_broker .dec {width: 100%; float: unset; clear: both;}
+
+.active-buyers-wrapper .buyer-listing .looking-for ul li {width: 100%;}
+.details_sec .buyer_row .title {font-size: 20px;}
+.details_sec .buyer_row .title:after {margin-top:0; height: 2px;}
+.details_sec .buyer_row .buyer_social {float: left; clear: both; margin-bottom: 20px;}
+
+.details_sec .buyer_row .buyer_social ul li {margin-left: 0px; margin-right: 5px;}
+.details_sec .buyer-details li {margin-left: 0; margin-bottom: 20px;}
+
+.details_sec .buyer_row .buyer_social ul li a {width: 20px; height: 20px; font-size: 12px; padding: 0;}
+.sell-business-wrapper .creat-account .description h2, .sell-business .basic-info h2  {font-size: 24px;}
+.view_active_buyer_section .edit_views_button {text-align: left;}
+.details_sec .buyer-details li {width: 100%;}
+
+.sell-business-wrapper .question_box {height: 350px;}
+.sell-business form .select_box .select_border {right: 60px;}
+.business-info-form ul.label_list li {width: 100%;}
+.sell-business .showcase_row {max-width: unset;padding-left: 10px; padding-right: 15px;}
+.sell-business .select-plan-tab .product_description {margin-top:0;}
+.sell-business .basic-info h2, .sell-business .select-basic-plan .description h2 {font-size: 24px;}
+
+.buy_a_franchise .section-heading h1 {font-size: 28px;}
+.franchise_content_wrapper {margin-top:30px;}
+
+.busniess_broker .select_box .select_border {right: 60px;}
+.pagination_bar .next.page-numbers:before {top:-2px;}
+.pagination_bar .prev.page-numbers:before {top:-2px;}
+.active-buyers-wrapper .buyer-listing .title {width: 100%; text-align: left; font-size: 18px;}
+.business_tabs_section .nav-tabs {border-radius: 0;}
+.business_tabs_section .nav-tabs .nav-link{border: none; border-bottom: 1px solid #ffa733; margin-bottom: 0;}
+
+ .contact_seller_form_section form label {margin-left: 0;}
+.business_tabs_section .nav-fill .nav-item,
+.contact_seller_form_section .already_member h4 {font-size: 16px;}
+.contact_seller_form_section form label {font-size: 14px;}
+.info {font-size: 10px;}
+
+
+
+.broker_details_sec .broker_details .top_row .broker_social {float: left; text-align: left; clear: both; margin: 10px 0;}
+.contact_form_map .contact_form h2 {font-size: 22px;}
+.contact-details {padding-top:0;}
+
+.modal.forgot_password .broker_login_heading h2,
+.modal.login_admin .broker_login_heading h2 {font-size: 22px;}
+.modal.forgot_password .modal-content,
+.modal.login_admin .modal-dialog .modal-content {padding: 10px;}
+.site-map .fancy-collapse-panel .panel-heading a {font-size: 14px;}
+.site-map .section-heading h1 {font-size: 24px;}
+
+.featured_broker_section, .recently_added_section { padding-bottom: 25px;  }
+.addlisting_section { margin-top: 0px; }
+
+#post-7 .form-control{ padding: 10px; }
+.d-table-cell.align-middle .heading-title { text-align: center; }
+
+#post-7 .typeahead__query .form-control { margin-bottom: 0px; }
+.typeahead__cancel-button { padding: 0 5px; }
+
+#post-7 button.btn.btn-danger.wrn-btn { margin-top: 15px; }
+
+.business_sale_wrapper .col-lg-4.col-md-6 { width: 50%; }
+
+.sell-business .nav-tabs {  -webkit-border-radius: 1px;
+-moz-border-radius: 1px;
+border-radius: 1px; }
+.sell-business .nav-tabs .nav-item { border-bottom: 1px solid #ffa733; border-left: none; border-right: none; }
+
+.container { padding-left: 10px; padding-right: 10px; }
+.row { margin-left: -10px; margin-right: -10px; }
+
+.sell-business .showcase_row,
+.sell-business .sell-business-wrapper form { padding: 0px; }
+.sell-business form .btn { margin: 0px; line-height: 2 }
+
+.broker_register_wrapper { padding: 30px; }
+
+.broker_register_wrapper form #country { margin-bottom: 25px; }
+
+.profile .entry-content  {  margin: 0px; }
+
+.profile form table { margin-bottom: 15px; }
+.page-id-300 .site-content form .from-group.submit_btn { margin-top: 0px; }
+
+.page-id-907 table { width: 600px; }
+
+.page-id-907 .col.span_9.marB60 { overflow-x: auto;  }
+
+.page-id-907 table td,
+.page-id-907 table thead th{ font-size: 12px; letter-spacing: 0px; }
+
+.site-map { margin-bottom: 15px; }
+
+.privacy_policy_section { margin-bottom: 25px; }
+
+.privacy_policy_section .privacy_policy-wapper { width: 100%; margin: 0px; padding: 15px; max-width: 100%; }
+.section-heading { margin-bottom: 10px; }
+.privacy_policy_section .privacy_policy-wapper .section-heading h2 { font-size: 28px; }
+.privacy_policy_section .privacy_policy-wapper h2 { font-size: 18px; }
+
+.contact-details .con_add { height: auto; }
+
+ .fliter_listing_section { padding-bottom: 20px; }
+
+ .sale_listing .sale_pic img { height: 100px; }
+
+ .Cancel { padding: 50px 15px; text-align: center;  }
+
+.Cancel h1 { font-size:30px; }
+
+.packages-container .package-posts { width: 100%; }
+#package.tabcontent { margin-top: 20px !important; }
+
+
+.view_active_buyer_section .buyer-listing .looking-for { width: 100%; max-width: 100%;  }
+.view_active_buyer_section .buyer-listing { text-align: center; }
+.view_active_buyer_section .buyer-listing .buyer-pic { float: none;  margin: auto; }
+.view_active_buyer_section .edit_views_button { text-align: center; }
+
+.view_active_buyer_section .active_buyer_summary { font-size: 14px; }
+
+}
+
+  
+
+
+@media(max-width: 480px) {
+  img {max-width: unset; width: 100%;}
+  .footer_logo_add_detail .footer_log img {width: 60%;}
+  .footer_bottom_menu ul li a {font-size: 12px; padding-right: 5px;padding-left: 2px;}
+  .broker_register_wrapper form .all-regis {display: unset; margin-bottom: -15px; width: 100%;}
+  .broker_register_wrapper form .all-regis h4,
+  .broker_register_wrapper form .all-regis h5 {width: 100%; text-align: center; float: unset; display: inline-grid;}
+
+.addlisting_section ul li {padding: 0 5px;}
+
+.checkmark { position: absolute;top: 5px;left: 0;}
+
+.input-checkbox {padding-left: 25px; font-size: 14px;}
+
+.contact_seller_form_wrapper {padding:50px 20px;}
+.addlisting_section a.btn {    margin-left: 0px;padding: 3px 4px;font-size: 12px;}
+
+.addlisting_section {margin-top:7px;}
+
+.sell-business .select-plan-tab .showcase {width: 100%;}
+.pagination_bar .page-numbers {margin-left: 5px; font-size: 12px; padding-top:4px; height: 30px; width: 30px;}
+.pagination_bar .next.page-numbers:before {top:-10px; font-size: 30px;}
+.pagination_bar .prev.page-numbers:before {top:-10px; font-size: 30px;}
+.busniess_broker .select_box .select_border {right: 40px;}
+.details_sec {padding:15px;}
+.details_sec .buyer_row .title {font-size: 17px;}
+.footer_top_section .footer_sec {width: 100%!important}
+.footer_sec.a, .footer_sec.c {margin-right: 0px;}
+.footer_top_section .widget {margin-bottom: 20px;}
+.footer_top_section #menu-quick-links li {display: inline-block; width: 49%;} 
+.footer_top_section ul li {font-size: 12px;}
+
+.footer_top_section {padding:  20px 10px;}
+.footer_top_section ul li a {font-size: 12px;}
+
+
+.footer_bottom_section .copy_right_content {text-align: center;}
+
+.single_buy_details_section div {font-size: 14px;}
+.investment_form_section {font-size: 14px;}
+.modal.login_admin h5 {position: unset; font-size: 12px;}
+.section-heading h2 {font-size: 24px;}
+
+.about_details{ padding-top: 30px; }
+.about_us_banner .caption_aera { height: 150px; padding: 20px; margin: 40px auto; }
+
+
+.history_section .history-bg, .history_section .history-content {
+
+    height: 336px;
+    background-size: cover !important;
+
+}
+
+.history_section .history-content { border-radius: 0; }
+
+}

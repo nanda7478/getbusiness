@@ -1,0 +1,7 @@
+[23-Jul-2019 07:43:37 UTC] PHP Fatal error:  Call to a member function query() on null in /home4/tminfotech/demosrvr.com/wp/getabusiness/wp-content/themes/getbusiness/ajaxData.php on line 7
+[23-Jul-2019 07:43:47 UTC] PHP Fatal error:  Call to a member function query() on null in /home4/tminfotech/demosrvr.com/wp/getabusiness/wp-content/themes/getbusiness/ajaxData.php on line 7
+[23-Jul-2019 07:43:49 UTC] PHP Fatal error:  Call to a member function query() on null in /home4/tminfotech/demosrvr.com/wp/getabusiness/wp-content/themes/getbusiness/ajaxData.php on line 7
+[23-Jul-2019 07:44:42 UTC] PHP Fatal error:  Call to a member function query() on null in /home4/tminfotech/demosrvr.com/wp/getabusiness/wp-content/themes/getbusiness/ajaxData.php on line 7
+[23-Aug-2019 06:28:03 UTC] WordPress database error Unknown column 'India' in 'where clause' for query SELECT * FROM states WHERE country_id = India AND status = 1 ORDER BY state_name ASC
+[23-Aug-2019 06:28:07 UTC] WordPress database error Unknown column 'India' in 'where clause' for query SELECT * FROM states WHERE country_id = India AND status = 1 ORDER BY state_name ASC
+[23-Aug-2019 06:28:14 UTC] WordPress database error Unknown column 'India' in 'where clause' for query SELECT * FROM states WHERE country_id = India AND status = 1 ORDER BY state_name ASC
